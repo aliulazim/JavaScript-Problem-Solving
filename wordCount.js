@@ -1,4 +1,4 @@
-let speech = "I am aliul     azim. I am a muslim. I love Allah and Rashul shalelahu walahe sallam.";
+let speech = "I am aliul azim. I am a muslim. I love Allah and Rashul shalelahu walahe sallam.";
 
 let count = 0;
 
