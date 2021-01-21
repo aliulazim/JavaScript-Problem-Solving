@@ -12,3 +12,10 @@ function reverseString(str) {
 let statement = "Hello Alen bhai brother";
 const forAlean = reverseString(statement);
 console.log(forAlean);
+
+
+function reverseWord(s) {
+    return s.split('').reverse().join('');
+  }
+  let word = reverseWord("Hello how are you jamil");
+console.log(word);
